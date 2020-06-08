@@ -1,0 +1,9 @@
+{
+	"TWIG brackets": {
+		"prefix": "{%}",
+		"body": [
+			"{%  %}"
+		],
+		"description": "Percent brackets"
+	}
+}

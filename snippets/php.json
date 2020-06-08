@@ -1,0 +1,11 @@
+{
+	"method": {
+		"prefix": "met",
+		"body": [
+			"function $1(){",
+			"    $2",
+			"}"
+		],
+		"description": "Method"
+	}
+}

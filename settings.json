@@ -1,0 +1,32 @@
+{
+    "workbench.colorTheme": "Material Theme Ocean High Contrast",
+    "workbench.preferredDarkColorTheme": "Solarized Dark",
+    "blade.format.enable": true,
+    "bracket-pair-colorizer-2.activeScopeCSS": [
+
+        "borderStyle : solid",
+        "borderWidth : 1px",
+        "borderColor : {color}",
+        "opacity: 0.5"
+    ],
+    "bracket-pair-colorizer-2.showBracketsInRuler": true,
+    "bracket-pair-colorizer-2.showBracketsInGutter": true,
+    "css.lint.important": "warning",
+    "eslint.alwaysShowStatus": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.formatOnPaste": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "workbench.statusBar.visible": false,
+    "editor.minimap.enabled": false,
+    "editor.tabCompletion": "on",
+    "intelephense.completion.insertUseDeclaration": false,
+    "emmet.showSuggestionsAsSnippets": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+    
+  
+
+}
